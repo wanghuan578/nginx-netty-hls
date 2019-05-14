@@ -1,0 +1,14 @@
+[2018-01-29 17:03:05,420][WARN][org.migu.app.configControl-line72] - release mode
+[2018-01-29 17:03:05,443][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7000
+[2018-01-29 17:03:05,483][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7001
+[2018-01-29 17:03:05,484][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7002
+[2018-01-29 17:03:05,484][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7003
+[2018-01-29 17:03:05,484][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7004
+[2018-01-29 17:03:05,491][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7005
+[2018-01-29 17:04:56,279][WARN][org.migu.app.configControl-line72] - release mode
+[2018-01-29 17:04:56,301][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7000
+[2018-01-29 17:04:56,336][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7001
+[2018-01-29 17:04:56,336][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7002
+[2018-01-29 17:04:56,337][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7003
+[2018-01-29 17:04:56,337][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7004
+[2018-01-29 17:04:56,341][WARN][org.migu.dao.redis.redisAdaptorControl-line74] - host: 10.200.41.98, port: 7005
